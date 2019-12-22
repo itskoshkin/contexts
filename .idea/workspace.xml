@@ -1,0 +1,292 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7b2d29ad-8cb1-4f20-9600-f89f9197af83" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1U6qelCElbS83mYUtHBt5B56oGR" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showVisibilityIcons" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Stanislav\IdeaProjects\Context\src\Sortings\Insertion" />
+      <recent name="C:\Users\Stanislav\IdeaProjects\Context\src\Sortings" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Main (3)">
+    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Sortings.Quick.Main" />
+      <module name="Context" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Sortings.Quick.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Sortings.Bucket.Main" />
+      <module name="Context" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Sortings.Bucket.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="StringAlgorithms.NaiveSearch.Main" />
+      <module name="Context" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="StringAlgorithms.NaiveSearch.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Coins.Main" />
+      <module name="Context" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Coins.Main" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PhilosophyAlgorithms.Backpack.Main" />
+      <module name="Context" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="PhilosophyAlgorithms.Backpack.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PhilosophyAlgorithms.GreedStone.Main" />
+      <module name="Context" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="PhilosophyAlgorithms.GreedStone.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PhilosophyAlgorithms.KBasedNumbers.Main" />
+      <module name="Context" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="PhilosophyAlgorithms.KBasedNumbers.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Coins.Main" />
+      <module name="Context" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Coins.Coins" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MaxSubmatrix.Main" />
+      <module name="Context" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="MaxSubmatrix.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.stanis.Main" />
+      <module name="Context" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.stanis.LCS.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Main" />
+      <item itemvalue="Application.Main (1)" />
+      <item itemvalue="Application.Main (2)" />
+      <item itemvalue="Application.Main (3)" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main (3)" />
+        <item itemvalue="Application.Main (2)" />
+        <item itemvalue="Application.Main (1)" />
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7b2d29ad-8cb1-4f20-9600-f89f9197af83" name="Default Changelist" comment="" />
+      <created>1574687489468</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1574687489468</updated>
+      <workItem from="1574687493611" duration="3142000" />
+      <workItem from="1574753904168" duration="35000" />
+      <workItem from="1575880121533" duration="4072000" />
+      <workItem from="1575893178822" duration="791000" />
+      <workItem from="1575904043619" duration="14021000" />
+      <workItem from="1575967893223" duration="1246000" />
+      <workItem from="1576323167181" duration="37722000" />
+      <workItem from="1576410467073" duration="760000" />
+      <workItem from="1576437481479" duration="304000" />
+      <workItem from="1576941675030" duration="3691000" />
+      <workItem from="1577018267650" duration="8563000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="866" height="350" key="GridCell.Tab.-1.bottom" timestamp="1575905188954">
+      <screen x="0" y="0" width="1825" height="1027" />
+    </state>
+    <state width="866" height="350" key="GridCell.Tab.-1.bottom/0.0.1825.1027@0.0.1825.1027" timestamp="1575905188954" />
+    <state width="866" height="350" key="GridCell.Tab.-1.center" timestamp="1575905188954">
+      <screen x="0" y="0" width="1825" height="1027" />
+    </state>
+    <state width="866" height="350" key="GridCell.Tab.-1.center/0.0.1825.1027@0.0.1825.1027" timestamp="1575905188954" />
+    <state width="866" height="350" key="GridCell.Tab.-1.left" timestamp="1575905188954">
+      <screen x="0" y="0" width="1825" height="1027" />
+    </state>
+    <state width="866" height="350" key="GridCell.Tab.-1.left/0.0.1825.1027@0.0.1825.1027" timestamp="1575905188954" />
+    <state width="866" height="350" key="GridCell.Tab.-1.right" timestamp="1575905188954">
+      <screen x="0" y="0" width="1825" height="1027" />
+    </state>
+    <state width="866" height="350" key="GridCell.Tab.-1.right/0.0.1825.1027@0.0.1825.1027" timestamp="1575905188954" />
+    <state width="818" height="276" key="GridCell.Tab.0.bottom" timestamp="1577026210629">
+      <screen x="0" y="0" width="1825" height="1027" />
+    </state>
+    <state width="818" height="276" key="GridCell.Tab.0.bottom/0.0.1825.1027@0.0.1825.1027" timestamp="1577026210629" />
+    <state width="818" height="276" key="GridCell.Tab.0.center" timestamp="1577026210629">
+      <screen x="0" y="0" width="1825" height="1027" />
+    </state>
+    <state width="818" height="276" key="GridCell.Tab.0.center/0.0.1825.1027@0.0.1825.1027" timestamp="1577026210629" />
+    <state width="818" height="276" key="GridCell.Tab.0.left" timestamp="1577026210628">
+      <screen x="0" y="0" width="1825" height="1027" />
+    </state>
+    <state width="818" height="276" key="GridCell.Tab.0.left/0.0.1825.1027@0.0.1825.1027" timestamp="1577026210628" />
+    <state width="818" height="276" key="GridCell.Tab.0.right" timestamp="1577026210629">
+      <screen x="0" y="0" width="1825" height="1027" />
+    </state>
+    <state width="818" height="276" key="GridCell.Tab.0.right/0.0.1825.1027@0.0.1825.1027" timestamp="1577026210629" />
+    <state width="866" height="350" key="GridCell.Tab.1.bottom" timestamp="1576365868848">
+      <screen x="0" y="0" width="1825" height="1027" />
+    </state>
+    <state width="866" height="350" key="GridCell.Tab.1.bottom/0.0.1825.1027@0.0.1825.1027" timestamp="1576365868848" />
+    <state width="866" height="350" key="GridCell.Tab.1.center" timestamp="1576365868848">
+      <screen x="0" y="0" width="1825" height="1027" />
+    </state>
+    <state width="866" height="350" key="GridCell.Tab.1.center/0.0.1825.1027@0.0.1825.1027" timestamp="1576365868848" />
+    <state width="866" height="350" key="GridCell.Tab.1.left" timestamp="1576365868848">
+      <screen x="0" y="0" width="1825" height="1027" />
+    </state>
+    <state width="866" height="350" key="GridCell.Tab.1.left/0.0.1825.1027@0.0.1825.1027" timestamp="1576365868848" />
+    <state width="866" height="350" key="GridCell.Tab.1.right" timestamp="1576365868848">
+      <screen x="0" y="0" width="1825" height="1027" />
+    </state>
+    <state width="866" height="350" key="GridCell.Tab.1.right/0.0.1825.1027@0.0.1825.1027" timestamp="1576365868848" />
+    <state x="625" y="340" key="com.intellij.ide.util.TipDialog" timestamp="1577018270286">
+      <screen x="0" y="0" width="1825" height="1027" />
+    </state>
+    <state x="625" y="340" key="com.intellij.ide.util.TipDialog/0.0.1825.1027@0.0.1825.1027" timestamp="1577018270286" />
+    <state x="323" y="139" key="new project wizard" timestamp="1575967930459">
+      <screen x="0" y="0" width="1825" height="1027" />
+    </state>
+    <state x="323" y="139" key="new project wizard/0.0.1825.1027@0.0.1825.1027" timestamp="1575967930459" />
+    <state x="1014" y="150" key="refactoring.ChangeSignatureDialog" timestamp="1576336803717">
+      <screen x="0" y="0" width="1825" height="1027" />
+    </state>
+    <state x="1014" y="150" key="refactoring.ChangeSignatureDialog/0.0.1825.1027@0.0.1825.1027" timestamp="1576336803717" />
+    <state x="1001" y="241" key="run.anything.popup" timestamp="1576341077558">
+      <screen x="0" y="0" width="1825" height="1027" />
+    </state>
+    <state x="1001" y="241" key="run.anything.popup/0.0.1825.1027@0.0.1825.1027" timestamp="1576341077558" />
+    <state x="1008" y="227" width="672" height="678" key="search.everywhere.popup" timestamp="1577024030551">
+      <screen x="0" y="0" width="1825" height="1027" />
+    </state>
+    <state x="1008" y="227" width="672" height="678" key="search.everywhere.popup/0.0.1825.1027@0.0.1825.1027" timestamp="1577024030551" />
+  </component>
+</project>
