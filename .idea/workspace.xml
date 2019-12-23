@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="7b2d29ad-8cb1-4f20-9600-f89f9197af83" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/StringAlgorithms/KnuthMorrisPratt/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/StringAlgorithms/KnuthMorrisPratt/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/StringAlgorithms/RabinKarp/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/StringAlgorithms/RabinKarp/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -41,7 +40,7 @@
       <recent name="C:\Users\Stanislav\IdeaProjects\Context\src\Sortings" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Main">
+  <component name="RunManager" selected="Application.Main (4)">
     <configuration name="Main (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Sortings.Bucket.Main" />
       <module name="Context" />
@@ -194,9 +193,9 @@
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main (4)" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.Main (5)" />
-        <item itemvalue="Application.Main (4)" />
         <item itemvalue="Application.Main (3)" />
         <item itemvalue="Application.Main (2)" />
       </list>
@@ -236,7 +235,7 @@
       <workItem from="1576941675030" duration="3691000" />
       <workItem from="1577018267650" duration="9079000" />
       <workItem from="1577103468100" duration="2028000" />
-      <workItem from="1577129513616" duration="4908000" />
+      <workItem from="1577129513616" duration="7057000" />
     </task>
     <task id="LOCAL-00001" summary="up-to-date">
       <created>1577035228302</created>
@@ -252,7 +251,14 @@
       <option name="project" value="LOCAL" />
       <updated>1577131833476</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="up-to-date">
+      <created>1577136559609</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1577136559609</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -263,10 +269,10 @@
     <option name="LAST_COMMIT_MESSAGE" value="up-to-date" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="560" y="112" key="CommitChangelistDialog2" timestamp="1577131832621">
+    <state x="560" y="112" key="CommitChangelistDialog2" timestamp="1577136558812">
       <screen x="0" y="0" width="1825" height="1027" />
     </state>
-    <state x="560" y="112" key="CommitChangelistDialog2/0.0.1825.1027@0.0.1825.1027" timestamp="1577131832621" />
+    <state x="560" y="112" key="CommitChangelistDialog2/0.0.1825.1027@0.0.1825.1027" timestamp="1577136558812" />
     <state width="866" height="350" key="GridCell.Tab.-1.bottom" timestamp="1575905188954">
       <screen x="0" y="0" width="1825" height="1027" />
     </state>
@@ -283,38 +289,38 @@
       <screen x="0" y="0" width="1825" height="1027" />
     </state>
     <state width="866" height="350" key="GridCell.Tab.-1.right/0.0.1825.1027@0.0.1825.1027" timestamp="1575905188954" />
-    <state width="1217" height="260" key="GridCell.Tab.0.bottom" timestamp="1577134653506">
+    <state width="1217" height="331" key="GridCell.Tab.0.bottom" timestamp="1577137544725">
       <screen x="0" y="0" width="1825" height="1027" />
     </state>
-    <state width="1217" height="260" key="GridCell.Tab.0.bottom/0.0.1825.1027@0.0.1825.1027" timestamp="1577134653506" />
-    <state width="1217" height="260" key="GridCell.Tab.0.center" timestamp="1577134653506">
+    <state width="1217" height="331" key="GridCell.Tab.0.bottom/0.0.1825.1027@0.0.1825.1027" timestamp="1577137544725" />
+    <state width="1217" height="331" key="GridCell.Tab.0.center" timestamp="1577137544725">
       <screen x="0" y="0" width="1825" height="1027" />
     </state>
-    <state width="1217" height="260" key="GridCell.Tab.0.center/0.0.1825.1027@0.0.1825.1027" timestamp="1577134653506" />
-    <state width="1217" height="260" key="GridCell.Tab.0.left" timestamp="1577134653506">
+    <state width="1217" height="331" key="GridCell.Tab.0.center/0.0.1825.1027@0.0.1825.1027" timestamp="1577137544725" />
+    <state width="1217" height="331" key="GridCell.Tab.0.left" timestamp="1577137544725">
       <screen x="0" y="0" width="1825" height="1027" />
     </state>
-    <state width="1217" height="260" key="GridCell.Tab.0.left/0.0.1825.1027@0.0.1825.1027" timestamp="1577134653506" />
-    <state width="1217" height="260" key="GridCell.Tab.0.right" timestamp="1577134653506">
+    <state width="1217" height="331" key="GridCell.Tab.0.left/0.0.1825.1027@0.0.1825.1027" timestamp="1577137544725" />
+    <state width="1217" height="331" key="GridCell.Tab.0.right" timestamp="1577137544725">
       <screen x="0" y="0" width="1825" height="1027" />
     </state>
-    <state width="1217" height="260" key="GridCell.Tab.0.right/0.0.1825.1027@0.0.1825.1027" timestamp="1577134653506" />
-    <state width="1217" height="331" key="GridCell.Tab.1.bottom" timestamp="1577130480564">
+    <state width="1217" height="331" key="GridCell.Tab.0.right/0.0.1825.1027@0.0.1825.1027" timestamp="1577137544725" />
+    <state width="1217" height="331" key="GridCell.Tab.1.bottom" timestamp="1577137544725">
       <screen x="0" y="0" width="1825" height="1027" />
     </state>
-    <state width="1217" height="331" key="GridCell.Tab.1.bottom/0.0.1825.1027@0.0.1825.1027" timestamp="1577130480564" />
-    <state width="1217" height="331" key="GridCell.Tab.1.center" timestamp="1577130480564">
+    <state width="1217" height="331" key="GridCell.Tab.1.bottom/0.0.1825.1027@0.0.1825.1027" timestamp="1577137544725" />
+    <state width="1217" height="331" key="GridCell.Tab.1.center" timestamp="1577137544725">
       <screen x="0" y="0" width="1825" height="1027" />
     </state>
-    <state width="1217" height="331" key="GridCell.Tab.1.center/0.0.1825.1027@0.0.1825.1027" timestamp="1577130480564" />
-    <state width="1217" height="331" key="GridCell.Tab.1.left" timestamp="1577130480564">
+    <state width="1217" height="331" key="GridCell.Tab.1.center/0.0.1825.1027@0.0.1825.1027" timestamp="1577137544725" />
+    <state width="1217" height="331" key="GridCell.Tab.1.left" timestamp="1577137544725">
       <screen x="0" y="0" width="1825" height="1027" />
     </state>
-    <state width="1217" height="331" key="GridCell.Tab.1.left/0.0.1825.1027@0.0.1825.1027" timestamp="1577130480564" />
-    <state width="1217" height="331" key="GridCell.Tab.1.right" timestamp="1577130480564">
+    <state width="1217" height="331" key="GridCell.Tab.1.left/0.0.1825.1027@0.0.1825.1027" timestamp="1577137544725" />
+    <state width="1217" height="331" key="GridCell.Tab.1.right" timestamp="1577137544725">
       <screen x="0" y="0" width="1825" height="1027" />
     </state>
-    <state width="1217" height="331" key="GridCell.Tab.1.right/0.0.1825.1027@0.0.1825.1027" timestamp="1577130480564" />
+    <state width="1217" height="331" key="GridCell.Tab.1.right/0.0.1825.1027@0.0.1825.1027" timestamp="1577137544725" />
     <state x="625" y="340" key="com.intellij.ide.util.TipDialog" timestamp="1577018270286">
       <screen x="0" y="0" width="1825" height="1027" />
     </state>
@@ -346,6 +352,14 @@
             <option name="EMULATED" value="true" />
           </properties>
           <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/StringAlgorithms/RabinKarp/Main.java</url>
+          <line>17</line>
+          <properties class="StringAlgorithms.RabinKarp.Main" method="search">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="3" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

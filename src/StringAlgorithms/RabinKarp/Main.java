@@ -9,7 +9,7 @@ public class Main {
 
 
     public static void main(String[] args) {
-        String text = "AAAAAAABAABAAAAAAA";
+        String text = "AAABAABAABAAAAAAA";
         String pattern = "AAB";
         int primeNumber = 1488; // A prime number o/
         new Main().search(pattern, text, primeNumber);
