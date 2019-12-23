@@ -11,36 +11,39 @@ public class Main {
     public static void main(String[] args) {
         String text = "AAAAAAABAABAAAAAAA";
         String pattern = "AAB";
-        int primeNumber = 101; // A prime number
+        int primeNumber = 1488; // A prime number o/
         new Main().search(pattern, text, primeNumber);
     }
 
-    private void search(String pattern, String text, int primeNumber) {
+    private void search(String pattern, String text, int hashcode) {
         int M = pattern.length();
         int N = text.length();
         int i, j;
-        int p = 0;
-        int t = 0;
+
         int h = 1;
-        for (i = 0; i < M - 1; i++) h = (h * alphabet) % primeNumber;
+        for (i = 0; i < M - 1; i++) h = (h * alphabet) % hashcode;
+
+        int p = 0, t = 0;
         for (i = 0; i < M; i++) {
-            p = (alphabet * p + pattern.charAt(i)) % primeNumber;
-            t = (alphabet * t + text.charAt(i)) % primeNumber;
+            p = (alphabet * p + pattern.charAt(i)) % hashcode;
+            t = (alphabet * t + text.charAt(i)) % hashcode;
         }
+
         for (i = 0; i <= N - M; i++) {
+
             if (p == t) {
-                for (j = 0; j < M; j++) {
-                    if (text.charAt(i + j) != pattern.charAt(j))
-                        break;
-                }
+                for (j = 0; j < M; j++)
+                    if (text.charAt(i + j) != pattern.charAt(j)) break;
                 if (j == M)
                     System.out.println("Pattern found at index " + i);
             }
+
             if (i < N - M) {
-                t = (alphabet * (t - text.charAt(i) * h) + text.charAt(i + M)) % primeNumber;
+                t = (alphabet * (t - text.charAt(i) * h) + text.charAt(i + M)) % hashcode;
                 if (t < 0)
-                    t = (t + primeNumber);
+                    t = (t + hashcode);
             }
+
         }
     }
 
