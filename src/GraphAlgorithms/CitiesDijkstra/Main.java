@@ -3,6 +3,7 @@ package GraphAlgorithms.CitiesDijkstra;
 import java.util.LinkedList;
 import java.util.Scanner;
 import java.util.Stack;
+import java.util.stream.IntStream;
 
 public class Main {
 
@@ -14,13 +15,13 @@ public class Main {
         double[] road = new double[numberOfCities];
         int[] red = new int[numberOfCities];
         int[] black = new int[numberOfCities];
-        for (int i = 0; i < numberOfCities; ++i) {
+        IntStream.range(0, numberOfCities).forEach(i -> {
             graphPath.add(new LinkedList<>());
             citiesPath.add(new LinkedList<>());
             road[i] = 2.147483646E9D;
             red[i] = i;
             black[i] = 0;
-        }
+        });
         LinkedList<String> IndexOfCities = new LinkedList<>();
         int[][] _XY = new int[numberOfCities][2];
         String whither;

@@ -1,19 +1,20 @@
 package StringAlgorithms.BoyerMoore;
 
+import java.util.stream.IntStream;
+
 class Main {
 
     private static final int alphabet = 256;
 
     public static void main(String[] args) {
-
-        char[] txt = "ABAAABCD".toCharArray();
-        char[] pat = "ABC".toCharArray();
+        char[] txt = "AAAAAAABAABAAAAAAA".toCharArray();
+        char[] pat = "AAB".toCharArray();
         new Main().search(txt, pat);
     }
 
     private void badCharHeuristic(char[] str, int size, int[] badchar) {
-        for (int i = 0; i < alphabet; i++) badchar[i] = -1;
-        for (int i = 0; i < size; i++) badchar[(int) str[i]] = i;
+        IntStream.range(0, alphabet).forEach(i -> badchar[i] = -1);
+        IntStream.range(0, size).forEach(i -> badchar[(int) str[i]] = i);
     }
 
     private void search(char[] txt, char[] pat) {

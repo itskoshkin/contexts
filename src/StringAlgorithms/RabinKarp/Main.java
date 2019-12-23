@@ -9,8 +9,8 @@ public class Main {
 
 
     public static void main(String[] args) {
-        String text = "GEEKS FOR GEEKS";
-        String pattern = "GEEK";
+        String text = "AAAAAAABAABAAAAAAA";
+        String pattern = "AAB";
         int primeNumber = 101; // A prime number
         new Main().search(pattern, text, primeNumber);
     }

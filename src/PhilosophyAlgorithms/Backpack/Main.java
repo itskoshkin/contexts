@@ -1,6 +1,7 @@
 package PhilosophyAlgorithms.Backpack;
 
 import java.util.Scanner;
+import java.util.stream.IntStream;
 
 public class Main {
     public static void main(String[] args) {
@@ -9,10 +10,10 @@ public class Main {
         int capacity = scanner.nextInt();
         int[] thing = new int[n];
         int[] value = new int[n];
-        for (int i = 0; i < n; i++) {
+        IntStream.range(0, n).forEach(i -> {
             thing[i] = scanner.nextInt();
             value[i] = scanner.nextInt();
-        }
+        });
 
         System.out.println("new Backpack().knapSack(capacity, thing, value, n) = "
                 + new Main().knapSack(capacity, thing, value, n));

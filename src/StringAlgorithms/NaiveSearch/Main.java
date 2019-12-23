@@ -2,8 +2,8 @@ package StringAlgorithms.NaiveSearch;
 
 public class Main {
     public static void main(String[] args) {
-        String text = "AAAAAAAAAAAAAAAAAA";
-        String pattern = "AA";
+        String text = "AAAAAAABAABAAAAAAA";
+        String pattern = "AAB";
         new Main().search(text, pattern);
     }
 

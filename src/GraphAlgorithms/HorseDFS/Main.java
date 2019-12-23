@@ -13,9 +13,7 @@ public class Main {
         System.out.println("Graph:");
         for (int i = 0; i < size; i++) {
             for (int j = 0; j < size; j++) {
-
                 paths.add(PosCheck(i, j, size));
-
                 int[] temp = paths.get(i * size + j);
                 if (temp.length > 0) {
                     System.out.printf("%d - ", i * size + j);
@@ -29,10 +27,10 @@ public class Main {
         int index = posX * size + posY;
         int counter = 0;
         int[] path = PathSearch(paths, new int[]{index}, size * size);
-        if (size == 1 || path == null) System.out.println("No way");
-        else {
-            int[] answer = new int[path.length];
-            for (int i = 0; i < path.length; i++) answer[i] = indexOf(path, i);
+        if (size == 1 || path == null) {
+            System.out.println("No way");
+        } else {
+            int[] answer = IntStream.range(0, path.length).map(i -> indexOf(path, i)).toArray();
             for (int e : answer) {
                 System.out.printf("%d ", e);
                 counter++;
